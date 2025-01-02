@@ -1,0 +1,7 @@
+.banner{
+    background: url(https://cdn.pixabay.com/photo/2022/05/23/21/05/circle-7217259_640.png) no-repeat center center;
+    background-size: cover;
+    padding-top:10%;
+    padding-bottom:20%;
+    color:#fff;
+}
